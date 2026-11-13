@@ -47,7 +47,7 @@ LegalCopyright = "Copyright © 2023"
 ProductVersion = "1.2.0.0"
 
 [features]
-default = []
+default = ["snapshot-dynamic-buffers"]
 profile = []
 mmdisable = []
 frequent-updates = []
